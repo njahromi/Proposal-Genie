@@ -54,7 +54,7 @@ streamlit run streamlit_app.py
 - `GET /rfp/export/{run_id}` - proposal markdown output.
 - `GET /health` - health check.
 
-## Notes for portfolio use
-- The code is intentionally modular for interview walkthroughs.
+## Notes for contributors
+- The code is intentionally modular
 - You can swap in real OpenAI/Anthropic SDK calls inside `LLMClient._simulate_or_call`.
 - You can replace in-memory vector retrieval with Chroma/Pinecone and connect LangSmith/Ragas instrumentation.
