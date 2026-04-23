@@ -1,0 +1,20 @@
+{"question":"What is your standard monthly pricing for enterprise customers?","reference_answer":"Enterprise plan starts at $499/month.","topic":"pricing"}
+{"question":"What uptime SLA do you provide in us-east?","reference_answer":"99.95% uptime SLA in us-east.","topic":"availability"}
+{"question":"Describe your security compliance approach.","reference_answer":"Annual penetration tests, SOC2-aligned controls, and least-privilege access.","topic":"policy"}
+{"question":"How do you manage implementation governance?","reference_answer":"Phased rollout with weekly governance updates and a dedicated solution architect.","topic":"implementation"}
+{"question":"What is your incident response policy?","reference_answer":"We follow documented incident playbooks and communicate customer impact promptly.","topic":"policy"}
+{"question":"Can you summarize employee security training?","reference_answer":"Employees receive regular security training and policy refreshers.","topic":"policy"}
+{"question":"Do you offer regional deployment options?","reference_answer":"Yes, availability is tracked by region including us-east and eu-west.","topic":"availability"}
+{"question":"What is your pricing for standard plan?","reference_answer":"Standard plan is $99/month.","topic":"pricing"}
+{"question":"How do you ensure least-privilege access?","reference_answer":"Access is role-based and restricted by least-privilege principles.","topic":"policy"}
+{"question":"What is your proposal delivery methodology?","reference_answer":"We align scope, milestones, and governance to business outcomes.","topic":"implementation"}
+{"question":"How often are penetration tests performed?","reference_answer":"Penetration tests are performed annually.","topic":"policy"}
+{"question":"What support model comes with enterprise plan?","reference_answer":"Enterprise includes solution architect support and governance cadence.","topic":"pricing"}
+{"question":"How do you report SLA performance?","reference_answer":"We track and report uptime and service health metrics by region.","topic":"availability"}
+{"question":"How do you phase project rollout?","reference_answer":"Rollout occurs in phased increments with weekly checkpoints.","topic":"implementation"}
+{"question":"What controls back your SOC2 posture?","reference_answer":"Operational controls, access controls, and monitoring support SOC2 alignment.","topic":"policy"}
+{"question":"How do you handle customer-facing incidents?","reference_answer":"We follow response playbooks and provide timely updates.","topic":"policy"}
+{"question":"Are your services healthy in eu-west?","reference_answer":"eu-west is healthy with 99.9% SLA.","topic":"availability"}
+{"question":"What are the SKU options available?","reference_answer":"Available SKUs include PG-STD and PG-ENT.","topic":"pricing"}
+{"question":"How do you align implementation with outcomes?","reference_answer":"We use solution architecture governance tied to measurable milestones.","topic":"implementation"}
+{"question":"How do you ground proposal claims?","reference_answer":"Claims are tied to internal policy and operational evidence.","topic":"policy"}
